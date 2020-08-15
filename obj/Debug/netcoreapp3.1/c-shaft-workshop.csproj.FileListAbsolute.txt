@@ -1,0 +1,13 @@
+C:\Users\july_\summary-project\c-shaft-workshop\bin\Debug\netcoreapp3.1\c-shaft-workshop.exe
+C:\Users\july_\summary-project\c-shaft-workshop\bin\Debug\netcoreapp3.1\c-shaft-workshop.deps.json
+C:\Users\july_\summary-project\c-shaft-workshop\bin\Debug\netcoreapp3.1\c-shaft-workshop.runtimeconfig.json
+C:\Users\july_\summary-project\c-shaft-workshop\bin\Debug\netcoreapp3.1\c-shaft-workshop.runtimeconfig.dev.json
+C:\Users\july_\summary-project\c-shaft-workshop\bin\Debug\netcoreapp3.1\c-shaft-workshop.dll
+C:\Users\july_\summary-project\c-shaft-workshop\bin\Debug\netcoreapp3.1\c-shaft-workshop.pdb
+C:\Users\july_\summary-project\c-shaft-workshop\obj\Debug\netcoreapp3.1\c-shaft-workshop.csprojAssemblyReference.cache
+C:\Users\july_\summary-project\c-shaft-workshop\obj\Debug\netcoreapp3.1\c-shaft-workshop.AssemblyInfoInputs.cache
+C:\Users\july_\summary-project\c-shaft-workshop\obj\Debug\netcoreapp3.1\c-shaft-workshop.AssemblyInfo.cs
+C:\Users\july_\summary-project\c-shaft-workshop\obj\Debug\netcoreapp3.1\c-shaft-workshop.csproj.CoreCompileInputs.cache
+C:\Users\july_\summary-project\c-shaft-workshop\obj\Debug\netcoreapp3.1\c-shaft-workshop.dll
+C:\Users\july_\summary-project\c-shaft-workshop\obj\Debug\netcoreapp3.1\c-shaft-workshop.pdb
+C:\Users\july_\summary-project\c-shaft-workshop\obj\Debug\netcoreapp3.1\c-shaft-workshop.genruntimeconfig.cache
